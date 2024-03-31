@@ -12,7 +12,7 @@
 #### В
 
 ## Ссылка
-[Ссылка на сакай]((https://sakai.narfu.ru/portal))
+[Ссылка на сакай](https://sakai.narfu.ru/portal)
 
 ## Полосы
 ---
